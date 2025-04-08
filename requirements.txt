@@ -1,0 +1,2 @@
+urequests
+beautifulsoup4
