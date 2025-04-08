@@ -1,9 +1,12 @@
 import sys
+import os
 sys.path.insert(0, "./src")
 
+from crawler.core import crawl_and_export
 from crawler.core import crawl
 from crawler.utils import should_skip_url
 import requests
+import json
 from unittest.mock import patch, Mock
 
 def test_should_skip_url():
@@ -203,4 +206,34 @@ def test_blocks_external_domain_by_default(mock_get):
     urls = {page.url for page in results}
     assert "https://example.com" in urls
     assert "https://other.com/page" not in urls
+
+@patch("crawler.fetcher.requests.get")
+def test_crawl_and_export_creates_json_file(mock_get):
+    html = """
+    <html>
+      <head><title>Export Test</title></head>
+      <body><h1>Hello</h1><a href="https://example.com/page">Page</a></body>
+    </html>
+    """
+    mock_response = Mock()
+    mock_response.status_code = 200
+    mock_response.text = html
+    mock_get.return_value = mock_response
+
+    filename = "test_output.json"
+    if os.path.exists(filename):
+        os.remove(filename)
+
+    crawl_and_export("https://example.com", depth=1, export_format="json", filename=filename)
+
+    assert os.path.exists(filename)
+
+    with open(filename, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        assert isinstance(data, list)
+        assert data[0]["url"] == "https://example.com"
+        assert "title" in data[0]
+
+    os.remove(filename)
+
  
