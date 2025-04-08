@@ -1,25 +1,22 @@
 import argparse
+from dataclasses import asdict
 from crawler.core import crawl
+from crawler.export import export_results
 
 def main():
-    parser = argparse.ArgumentParser(description="Basic Web Crawler")
-    parser.add_argument("url", help="Starting URL")
-    parser.add_argument("--depth", type=int, default=2, help="Depth limit for crawling")
+    parser = argparse.ArgumentParser(description="Basic web crawler")
+    parser.add_argument("url", help="The starting URL to crawl")
+    parser.add_argument("--depth", type=int, default=2, help="Maximum crawl depth")
     parser.add_argument("--allow-external", action="store_true", help="Allow crawling external domains")
+    parser.add_argument("--export", choices=["json", "jsonl", "csv"], help="Export format")
+
     args = parser.parse_args()
 
-    results = crawl(
-        url=args.url,
-        depth=args.depth,
-        allow_external=args.allow_external
-    )
+    results = crawl(args.url, depth=args.depth, allow_external=args.allow_external)
+    print(f"[DONE] Crawled {len(results)} pages.")
 
-    for page in results:
-        print(f"URL: {page.url}")
-        print(f"Title: {page.title}")
-        print(f"Description: {page.description}")
-        print(f"Headings: {page.headings}")
-        print("-" * 80)
+    if args.export:
+        export_results([asdict(r) for r in results], args.export)
 
 if __name__ == "__main__":
     main()
