@@ -1,0 +1,59 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+
+# Virtual environments
+.venv/
+venv/
+.env/
+.envrc
+.python-version
+
+# pyenv
+.python-version
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Tests and coverage
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+coverage.xml
+
+# Logs and outputs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Crawl results
+crawl_result.json
+output.json
+*.csv
+*.db
+
+# Packages/dist
+build/
+dist/
+*.egg-info/
+
+# Backup files
+*~
+
+# Secrets (if any config or token files added later)
+secrets.*
+*.key
+*.pem
+

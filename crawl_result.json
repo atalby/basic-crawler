@@ -16,44 +16,41 @@
       ]
     },
     {
-      "url": "https://www.python.org/about/legal/",
-      "title": "Legal Statements | Python Software Foundation",
+      "url": "https://www.python.org/about/quotes/",
+      "title": "Quotes about Python | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Legal Statements"
+        "Quotes about Python",
+        "YouTube.com",
+        "Industrial Light & Magic",
+        "Google",
+        "Journyx",
+        "IronPort",
+        "EVE Online",
+        "HomeGain",
+        "Thawte Consulting",
+        "University of Maryland",
+        "EZTrip.com",
+        "RealEstateAgent.com",
+        "Firaxis Games"
       ]
     },
     {
-      "url": "https://www.python.org/events/python-user-group/",
-      "title": "Our Events | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/records/",
-      "title": "Python Software Foundation Public Records | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Software Foundation Public Records",
-        "Incorporation",
-        "Bylaws",
-        "Board of Directors",
-        "PSF Staff",
-        "IRS recognition of tax exempt status",
-        "Tax Returns and Financial Information"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/donations/2024-q4-drive/",
-      "title": "Power Python: | Python.org",
+      "url": "https://www.python.org/psf/annual-report/2021/",
+      "title": "2021 PSF Annual Report | Python Software Foundation",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Power Python:"
+        "The Python Software Foundation 2021 Annual Report"
+      ]
+    },
+    {
+      "url": "https://www.python.org/psf/conduct/",
+      "title": "Python Software Foundation Code of Conduct - Python Software Foundation Policies",
+      "description": "(No description)",
+      "headings": [
+        "Python Software Foundation Code of Conduct"
       ]
     },
     {
@@ -66,31 +63,143 @@
       ]
     },
     {
-      "url": "https://www.python.org/success-stories/category/scientific/",
-      "title": "Scientific | Our Success Stories | Python.org",
+      "url": "https://www.python.org/psf/newsletter/",
+      "title": "PSF Newsletter Signup | Python Software Foundation",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Scientific"
+        "PSF Newsletter Signup"
       ]
     },
     {
-      "url": "https://www.python.org/psf/news-and-community",
-      "title": "Python Software Foundation News & Community | Python Software Foundation",
+      "url": "https://www.python.org/dev/core-mentorship/",
+      "title": "Python Core Mentorship | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Python Software Foundation News & Community",
-        "News & Updates",
-        "Community",
-        "Code of Conduct",
-        "Membership",
-        "Want to contact us?"
+        "Python Core Mentorship",
+        "Introduction",
+        "Resources",
+        "Code of Conduct"
       ]
     },
     {
-      "url": "https://www.python.org/success-stories/",
-      "title": "Our Success Stories | Python.org",
+      "url": "https://www.python.org/doc/essays/",
+      "title": "Python Documentation Index | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python Documentation Index",
+        "Python Essays",
+        "Table of contents (in mostly chronological order)"
+      ]
+    },
+    {
+      "url": "https://www.python.org/community/diversity/",
+      "title": "Diversity | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Diversity",
+        "Diversity Statement",
+        "Diversity Appendix"
+      ]
+    },
+    {
+      "url": "https://www.python.org/about/apps/",
+      "title": "Applications for Python | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Applications for Python",
+        "Web and Internet Development",
+        "Scientific and Numeric",
+        "Education",
+        "Desktop GUIs",
+        "Software Development",
+        "Business Applications"
+      ]
+    },
+    {
+      "url": "https://www.python.org/downloads/",
+      "title": "Download Python | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Download the latest source release",
+        "Download the latest version for Windows",
+        "Download the latest version for macOS",
+        "Download the latest version of Python"
+      ]
+    },
+    {
+      "url": "https://www.python.org/events/",
+      "title": "Our Events | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        ""
+      ]
+    },
+    {
+      "url": "https://www.python.org/download/alternatives",
+      "title": "Alternative Python Implementations | Python.org",
+      "description": "This site hosts the \"traditional\" implementation of Python (nicknamed CPython). A number of alternative implementations are available as well and several vendors have repackaged CPython to include more libraries or specialized it for a particular application.",
+      "headings": [
+        "",
+        "Alternative Python Implementations"
+      ]
+    },
+    {
+      "url": "https://www.python.org/downloads/macos/",
+      "title": "Python Releases for macOS | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python Releases for macOS"
+      ]
+    },
+    {
+      "url": "https://www.python.org/success-stories/category/government/",
+      "title": "Government | Our Success Stories | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Government"
+      ]
+    },
+    {
+      "url": "https://www.python.org/events/python-user-group/",
+      "title": "Our Events | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        ""
+      ]
+    },
+    {
+      "url": "https://www.python.org/success-stories/category/education/",
+      "title": "Education | Our Success Stories | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Education"
+      ]
+    },
+    {
+      "url": "https://www.python.org/",
+      "title": "Welcome to Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Functions Defined",
+        "Compound Data Types",
+        "Intuitive Interpretation",
+        "All the Flow You’d Expect",
+        "Quick & Easy to Learn"
+      ]
+    },
+    {
+      "url": "https://www.python.org/psf/community-stories/",
+      "title": "Community Stories | Python Software Foundation",
       "description": "The official home of the Python Programming Language",
       "headings": [
         ""
@@ -110,6 +219,70 @@
       ]
     },
     {
+      "url": "https://www.python.org/community/irc/",
+      "title": "Internet Relay Chat | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Internet Relay Chat",
+        "Other Channels",
+        "Other Sites"
+      ]
+    },
+    {
+      "url": "https://www.python.org/psf/",
+      "title": "Python Software Foundation",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "The Python Software Foundation is an organization devoted to advancing open source technology related to the Python programming language.",
+        "We support the Python Community through...",
+        "Grants",
+        "Infrastructure",
+        "PyCon US"
+      ]
+    },
+    {
+      "url": "https://www.python.org/about/",
+      "title": "About Python™ | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python is powerful... and fast;plays well with others;runs everywhere;is friendly & easy to learn;is Open."
+      ]
+    },
+    {
+      "url": "https://www.python.org/downloads/source/",
+      "title": "Python Source Releases | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python Source Releases"
+      ]
+    },
+    {
+      "url": "https://www.python.org/community/sigs/",
+      "title": "Python Special Interest Groups | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python Special Interest Groups",
+        "About",
+        "Retired",
+        "Regional Groups",
+        "Archives"
+      ]
+    },
+    {
+      "url": "https://www.python.org/dev/",
+      "title": "Python Developer's Guide | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python Developer's Guide"
+      ]
+    },
+    {
       "url": "https://www.python.org/success-stories/category/arts/",
       "title": "Arts | Our Success Stories | Python.org",
       "description": "The official home of the Python Programming Language",
@@ -119,74 +292,43 @@
       ]
     },
     {
-      "url": "https://www.python.org/doc/av",
-      "title": "Audio/Video Instructional Materials for Python | Python.org",
-      "description": "A growing body of podcasts, screencasts and video presentations for the Python community.",
-      "headings": [
-        "",
-        "Audio/Video Instructional Materials for Python",
-        "Podcast Repositories",
-        "Inactive Podcast Repositories",
-        "Conference Talk and Video Lecture Repositories"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/newsletter/",
-      "title": "PSF Newsletter Signup | Python Software Foundation",
+      "url": "https://www.python.org/about/gettingstarted/",
+      "title": "Python For Beginners | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "PSF Newsletter Signup"
+        "Python For Beginners",
+        "Installing",
+        "Learning",
+        "Looking for Something Specific?",
+        "Frequently Asked Questions",
+        "Looking to Help?"
       ]
     },
     {
-      "url": "https://www.python.org/psf/about/",
-      "title": "About the Python Software Foundation | Python Software Foundation",
+      "url": "https://www.python.org/jobs/",
+      "title": "Python Job Board | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "About the Python Software Foundation",
-        "Infrastructure",
-        "Community",
-        "Investing in Python & Tools"
+        "23 jobs on the Python Job Board"
       ]
     },
     {
-      "url": "https://www.python.org/success-stories/category/engineering/",
-      "title": "Engineering | Our Success Stories | Python.org",
+      "url": "https://www.python.org/community/forums/",
+      "title": "Forums | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Engineering"
+        "Forums"
       ]
     },
     {
-      "url": "https://www.python.org/psf/membership-faq",
-      "title": "PSF Membership Types & FAQ | Python Software Foundation",
+      "url": "https://www.python.org/events/python-events/",
+      "title": "Our Events | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
-        "",
-        "PSF Membership Types & FAQ",
-        "What does it mean to be a member of the PSF?",
-        "What membership classes are there?",
-        "Who is allowed to vote?",
-        "How does a person become a PSF Fellow?",
-        "What does the PSF do?",
-        "How can I ask other questions?"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/about/legal-and-policies/",
-      "title": "Legal & Policies | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Legal & Policies",
-        "Legal Statements",
-        "Trademark Policy",
-        "Licenses",
-        "Contribution Agreements",
-        "Vendor Info"
+        ""
       ]
     },
     {
@@ -209,25 +351,12 @@
       ]
     },
     {
-      "url": "https://www.python.org/psf/sponsorship/",
-      "title": "Sponsor the PSF | Python Software Foundation",
+      "url": "https://www.python.org/success-stories/category/software-development/",
+      "title": "Software Development | Our Success Stories | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "The Python Software Foundation Sponsorship Program"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf",
-      "title": "Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "The Python Software Foundation is an organization devoted to advancing open source technology related to the Python programming language.",
-        "We support the Python Community through...",
-        "Grants",
-        "Infrastructure",
-        "PyCon US"
+        "Software Development"
       ]
     },
     {
@@ -249,88 +378,16 @@
       ]
     },
     {
-      "url": "https://www.python.org/psf/license",
-      "title": "History and License — Python 3.13.2 documentation",
-      "description": "History of the software: Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (CWI, see https://www.cwi.nl) in the Netherlands as a successor of a language ca...",
-      "headings": [
-        "History and LicenseÂ¶"
-      ]
-    },
-    {
-      "url": "https://www.python.org/downloads/windows/",
-      "title": "Python Releases for Windows | Python.org",
-      "description": "The official home of the Python Programming Language",
+      "url": "https://www.python.org/community/logos/",
+      "title": "The Python Logo | Python Software Foundation",
+      "description": "Inline image sizing",
       "headings": [
         "",
-        "Python Releases for Windows"
-      ]
-    },
-    {
-      "url": "https://www.python.org/sponsors/application/",
-      "title": "Sponsorship Application | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Sponsor the PSF",
-        "Thank you for making a difference in the Python ecosystem!"
-      ]
-    },
-    {
-      "url": "https://www.python.org/downloads/macos/",
-      "title": "Python Releases for macOS | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Releases for macOS"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-events/past/",
-      "title": "Our Events | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/board/",
-      "title": "PSF Officers & Board Members | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "PSF Officers & Board Members",
-        "Officers & Directors by Year",
-        "2024-2025",
-        "2023-2024",
-        "2022-2023",
-        "2021-2022",
-        "2020-2021",
-        "Earlier",
-        "Officers & Directors by Name",
-        "Officers By Title"
-      ]
-    },
-    {
-      "url": "https://www.python.org/about/apps/",
-      "title": "Applications for Python | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Applications for Python",
-        "Web and Internet Development",
-        "Scientific and Numeric",
-        "Education",
-        "Desktop GUIs",
-        "Software Development",
-        "Business Applications"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/conduct/",
-      "title": "Python Software Foundation Code of Conduct - Python Software Foundation Policies",
-      "description": "(No description)",
-      "headings": [
-        "Python Software Foundation Code of Conduct"
+        "The Python Logo",
+        "The Python Logo",
+        "The Python Powered Logo",
+        "Guidelines for Use",
+        "T-shirts and other Merchandise"
       ]
     },
     {
@@ -348,244 +405,38 @@
       ]
     },
     {
-      "url": "https://www.python.org/psf/faq/",
-      "title": "Python Software Foundation FAQ | Python Software Foundation",
+      "url": "https://www.python.org/success-stories/category/scientific/",
+      "title": "Scientific | Our Success Stories | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Python Software Foundation FAQ",
-        "What is the Python Software Foundation?",
-        "Who are on the PSF board?  Who are the officers?",
-        "How do I reach the PSF?",
-        "How do I join the PSF?",
-        "How can I follow  PSF activities?",
-        "How can I provide feedback?"
+        "Scientific"
       ]
     },
     {
-      "url": "https://www.python.org/success-stories/category/software-development/",
-      "title": "Software Development | Our Success Stories | Python.org",
+      "url": "https://www.python.org/about/legal/",
+      "title": "Legal Statements | Python Software Foundation",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Software Development"
+        "Legal Statements"
       ]
     },
     {
-      "url": "https://www.python.org/community/sigs/",
-      "title": "Python Special Interest Groups | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Special Interest Groups",
-        "About",
-        "Retired",
-        "Regional Groups",
-        "Archives"
-      ]
-    },
-    {
-      "url": "https://www.python.org/",
-      "title": "Welcome to Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Functions Defined",
-        "Compound Data Types",
-        "Intuitive Interpretation",
-        "All the Flow You’d Expect",
-        "Quick & Easy to Learn"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-user-group/past/",
-      "title": "Our Events | Python.org",
+      "url": "https://www.python.org/success-stories/",
+      "title": "Our Success Stories | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         ""
       ]
     },
     {
-      "url": "https://www.python.org/community/diversity/",
-      "title": "Diversity | Python.org",
+      "url": "https://www.python.org/psf/get-involved/",
+      "title": "ð Hey Community Members! | Python Software Foundation",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Diversity",
-        "Diversity Statement",
-        "Diversity Appendix"
-      ]
-    },
-    {
-      "url": "https://www.python.org/success-stories/category/business/",
-      "title": "Business | Our Success Stories | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Business"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/",
-      "title": "Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "The Python Software Foundation is an organization devoted to advancing open source technology related to the Python programming language.",
-        "We support the Python Community through...",
-        "Grants",
-        "Infrastructure",
-        "PyCon US"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/grants/",
-      "title": "PSF Grants Program | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "PSF Grants Program",
-        "Table of Contents",
-        "Overview of the PSF Grants Program",
-        "Grant Process",
-        ">>>SUBMIT A PSF GRANT APPLICATION<<<",
-        "Resources",
-        "Grant Proposal Tips",
-        "Office Hours",
-        "Questions?",
-        "Example Conference Grant Proposal",
-        "Recent Grants"
-      ]
-    },
-    {
-      "url": "https://www.python.org/community/workshops/",
-      "title": "Conferences and Workshops | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Conferences and Workshops",
-        "Conference Listings",
-        "Announcing Events",
-        "Adding Conferences"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/community-stories/",
-      "title": "Community Stories | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/community/forums/",
-      "title": "Forums | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Forums"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/membership/",
-      "title": "Become a Member of the PSF | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Become a Member of the PSF"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/annual-report/2021/",
-      "title": "2021 PSF Annual Report | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "The Python Software Foundation 2021 Annual Report"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/records/staff/",
-      "title": "Python Software Foundation Staff | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Software Foundation Staff",
-        "Deb Nicholson",
-        "Loren Crary",
-        "Ee Durbin",
-        "Phyllis Dobbs",
-        "Olivia Sauls",
-        "Laura Graves",
-        "Seth Larson",
-        "Mike Fiedler",
-        "Marie Nordin",
-        "Jacob Coffee",
-        "Maria Ashna",
-        "Jaime Barrera"
-      ]
-    },
-    {
-      "url": "https://www.python.org/about/gettingstarted/",
-      "title": "Python For Beginners | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python For Beginners",
-        "Installing",
-        "Learning",
-        "Looking for Something Specific?",
-        "Frequently Asked Questions",
-        "Looking to Help?"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/",
-      "title": "Our Events | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/doc/essays/",
-      "title": "Python Documentation Index | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Documentation Index",
-        "Python Essays",
-        "Table of contents (in mostly chronological order)"
-      ]
-    },
-    {
-      "url": "https://www.python.org/about/quotes/",
-      "title": "Quotes about Python | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Quotes about Python",
-        "YouTube.com",
-        "Industrial Light & Magic",
-        "Google",
-        "Journyx",
-        "IronPort",
-        "EVE Online",
-        "HomeGain",
-        "Thawte Consulting",
-        "University of Maryland",
-        "EZTrip.com",
-        "RealEstateAgent.com",
-        "Firaxis Games"
-      ]
-    },
-    {
-      "url": "https://www.python.org/blogs/",
-      "title": "Our Blogs | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "PSF News: PyCon US, PyPI Orgs, and Bluesky 🦋"
+        "ð Hey Community Members!"
       ]
     },
     {
@@ -598,190 +449,11 @@
       ]
     },
     {
-      "url": "https://www.python.org/community/logos/",
-      "title": "The Python Logo | Python Software Foundation",
-      "description": "Inline image sizing",
-      "headings": [
-        "",
-        "The Python Logo",
-        "The Python Logo",
-        "The Python Powered Logo",
-        "Guidelines for Use",
-        "T-shirts and other Merchandise"
-      ]
-    },
-    {
-      "url": "https://www.python.org/jobs/",
-      "title": "Python Job Board | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "23 jobs on the Python Job Board"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/fiscal-sponsorees/",
-      "title": "Fiscal Sponsorees | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Fiscal Sponsorees",
-        "At this time, the Python Software Foundation is not accepting new fiscal sponsoree requests."
-      ]
-    },
-    {
-      "url": "https://www.python.org/success-stories/category/government/",
-      "title": "Government | Our Success Stories | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Government"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/volunteer/",
-      "title": "Volunteer | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Volunteer",
-        "Example Tasks",
-        "Python Software Foundation Working Groups",
-        "Volunteer for PyCon US"
-      ]
-    },
-    {
-      "url": "https://www.python.org/doc/",
-      "title": "Our Documentation | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Browse the docs online or download a copy of your own."
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-events/",
+      "url": "https://www.python.org/events/python-user-group/past/",
       "title": "Our Events | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/nominations/elections/",
-      "title": "Elections | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Elections"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/fellows-roster",
-      "title": "PSF Fellows Roster | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "PSF Fellows Roster",
-        "Nominate a Fellow",
-        "Fellows of the Python Software Foundation"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/mission/",
-      "title": "Mission | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Mission"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/donations/",
-      "title": "Support the PSF with a Donation or by becoming a Supporting Member! | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Support the PSF with a Donation or by becoming a Supporting Member!",
-        "What does the Python Software Foundation do?",
-        "How can I donate?"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/donations/matching-gifts/",
-      "title": "Matching Donations | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Matching Donations"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/volunteer/pycon/",
-      "title": "Volunteer Opportunities for PyCon US | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Volunteer Opportunities for PyCon US",
-        "Current Opportunities"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/sponsors/",
-      "title": "Python Software Foundation Sponsors | Python Software Foundation",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Visionary Sponsors",
-        "Sustainability Sponsors",
-        "Maintaining Sponsors",
-        "Contributing Sponsors",
-        "Supporting Sponsors",
-        "Partner Sponsors",
-        "Participating Sponsors",
-        "Associate Sponsors",
-        "Media Sponsors",
-        "Government Participant Sponsors",
-        "AV Partner Sponsors"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/grants/faq/",
-      "title": "Grants - Frequently Asked Questions | Python Software Foundation",
-      "description": "Considering submitting a grant request to the PSF? Please read this FAQ first.",
-      "headings": [
-        "",
-        "Grants - Frequently Asked Questions"
-      ]
-    },
-    {
-      "url": "https://www.python.org/dev/core-mentorship/",
-      "title": "Python Core Mentorship | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Core Mentorship",
-        "Introduction",
-        "Resources",
-        "Code of Conduct"
-      ]
-    },
-    {
-      "url": "https://www.python.org/download/alternatives",
-      "title": "Alternative Python Implementations | Python.org",
-      "description": "This site hosts the \"traditional\" implementation of Python (nicknamed CPython). A number of alternative implementations are available as well and several vendors have repackaged CPython to include more libraries or specialized it for a particular application.",
-      "headings": [
-        "",
-        "Alternative Python Implementations"
-      ]
-    },
-    {
-      "url": "https://www.python.org/dev/",
-      "title": "Python Developer's Guide | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python Developer's Guide"
       ]
     },
     {
@@ -803,111 +475,143 @@
       ]
     },
     {
-      "url": "https://www.python.org/psf/workgroups/",
-      "title": "Work Groups of the Python Software Foundation | Python Software Foundation",
+      "url": "https://www.python.org/downloads/windows/",
+      "title": "Python Releases for Windows | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Work Groups of the Python Software Foundation",
-        "Active Work Groups",
-        "Inactive Committees & Work Groups"
+        "Python Releases for Windows"
       ]
     },
     {
-      "url": "https://www.python.org/downloads/source/",
-      "title": "Python Source Releases | Python.org",
-      "description": "The official home of the Python Programming Language",
+      "url": "https://www.python.org/doc/av",
+      "title": "Audio/Video Instructional Materials for Python | Python.org",
+      "description": "A growing body of podcasts, screencasts and video presentations for the Python community.",
       "headings": [
         "",
-        "Python Source Releases"
+        "Audio/Video Instructional Materials for Python",
+        "Podcast Repositories",
+        "Inactive Podcast Repositories",
+        "Conference Talk and Video Lecture Repositories"
       ]
     },
     {
-      "url": "https://www.python.org/success-stories/category/education/",
-      "title": "Education | Our Success Stories | Python.org",
+      "url": "https://www.python.org/community/workshops/",
+      "title": "Conferences and Workshops | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Education"
+        "Conferences and Workshops",
+        "Conference Listings",
+        "Announcing Events",
+        "Adding Conferences"
       ]
     },
     {
-      "url": "https://www.python.org/about/",
-      "title": "About Python™ | Python.org",
+      "url": "https://www.python.org/success-stories/category/engineering/",
+      "title": "Engineering | Our Success Stories | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Python is powerful... and fast;plays well with others;runs everywhere;is friendly & easy to learn;is Open."
+        "Engineering"
       ]
     },
     {
-      "url": "https://www.python.org/psf/membership/supporting/",
-      "title": "Supporting Membership | Python Software Foundation",
+      "url": "https://www.python.org/doc/",
+      "title": "Our Documentation | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Supporting Membership",
-        "Become a Supporting Member of the PSF!",
-        "Become a Supporting Member of the PSF - Sliding Scale Rate (NEW)!"
+        "Browse the docs online or download a copy of your own."
       ]
     },
     {
-      "url": "https://www.python.org/community/awards/",
-      "title": "Python Community Awards | Python Software Foundation",
+      "url": "https://www.python.org/events/python-events/past/",
+      "title": "Our Events | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
-        "",
-        "Python Community Awards"
+        ""
       ]
     },
     {
-      "url": "https://www.python.org/psf/get-involved/",
-      "title": "ð Hey Community Members! | Python Software Foundation",
+      "url": "https://www.python.org/blogs/",
+      "title": "Our Blogs | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "ð Hey Community Members!"
+        "PSF News: PyCon US, PyPI Orgs, and Bluesky 🦋"
       ]
     },
     {
-      "url": "https://www.python.org/community/irc/",
-      "title": "Internet Relay Chat | Python.org",
+      "url": "https://www.python.org/success-stories/category/business/",
+      "title": "Business | Our Success Stories | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Internet Relay Chat",
-        "Other Channels",
-        "Other Sites"
+        "Business"
       ]
     },
     {
-      "url": "https://www.python.org/downloads/",
-      "title": "Download Python | Python.org",
+      "url": "https://www.python.org/events/calendars/",
+      "title": "Python Calendars | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Download the latest source release",
-        "Download the latest version for Windows",
-        "Download the latest version for macOS",
-        "Download the latest version of Python"
+        "Featured Python Calendars"
       ]
     },
     {
-      "url": "https://www.python.org/events/python-user-group/1966/",
-      "title": "Workshop: Creating Python Communities | Python.org",
+      "url": "https://www.python.org/shell/",
+      "title": "Welcome to Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
-        "",
-        "Workshop: Creating Python Communities"
+        ""
       ]
     },
     {
-      "url": "https://www.python.org/events/python-user-group/1967/",
-      "title": "Workshop: Creating Python Communities | Python.org",
+      "url": "https://www.python.org/users/membership/",
+      "title": "Sign In to Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
         "",
-        "Workshop: Creating Python Communities"
+        "Sign In"
+      ]
+    },
+    {
+      "url": "https://www.python.org/downloads/release/python-3132/",
+      "title": "Python Release Python 3.13.2 | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python 3.13.2",
+        "This is the second maintenance release of Python 3.13",
+        "Major new features of the 3.13 series, compared to 3.12",
+        "More resources",
+        "Files"
+      ]
+    },
+    {
+      "url": "https://www.python.org/about/apps",
+      "title": "Applications for Python | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Applications for Python",
+        "Web and Internet Development",
+        "Scientific and Numeric",
+        "Education",
+        "Desktop GUIs",
+        "Software Development",
+        "Business Applications"
+      ]
+    },
+    {
+      "url": "https://www.python.org/events/python-events/1990/",
+      "title": "SpaceCon 2025 | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "SpaceCon 2025"
       ]
     },
     {
@@ -920,11 +624,55 @@
       ]
     },
     {
-      "url": "https://www.python.org/events/python-user-group/locations/1570/",
-      "title": "Our Events | Python.org",
+      "url": "https://www.python.org/events/python-user-group/1985/",
+      "title": "IndyPy - Developer Tools: Code Faster, Work Smarter | Python.org",
       "description": "The official home of the Python Programming Language",
       "headings": [
-        ""
+        "",
+        "IndyPy - Developer Tools: Code Faster, Work Smarter"
+      ]
+    },
+    {
+      "url": "https://www.python.org/psf/donations/",
+      "title": "Support the PSF with a Donation or by becoming a Supporting Member! | Python Software Foundation",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Support the PSF with a Donation or by becoming a Supporting Member!",
+        "What does the Python Software Foundation do?",
+        "How can I donate?"
+      ]
+    },
+    {
+      "url": "https://www.python.org/events/python-user-group/1966/",
+      "title": "Workshop: Creating Python Communities | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Workshop: Creating Python Communities"
+      ]
+    },
+    {
+      "url": "https://www.python.org/success-stories/python-for-financial-machine-learning-at-union-investment/",
+      "title": "Python for Financial Machine Learning at Union Investment | Our Success Stories | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "Python for Financial Machine Learning at Union Investment",
+        "Introduction",
+        "Machine Learning with Python",
+        "Python’s Outstanding Ecosystem",
+        "Conclusion",
+        "About the Authors"
+      ]
+    },
+    {
+      "url": "https://www.python.org/events/python-events/1842/",
+      "title": "PyTexas 2025 | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": [
+        "",
+        "PyTexas 2025"
       ]
     },
     {
@@ -952,371 +700,6 @@
       "headings": [
         "",
         "Sign In"
-      ]
-    },
-    {
-      "url": "https://www.python.org/about/apps",
-      "title": "Applications for Python | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Applications for Python",
-        "Web and Internet Development",
-        "Scientific and Numeric",
-        "Education",
-        "Desktop GUIs",
-        "Software Development",
-        "Business Applications"
-      ]
-    },
-    {
-      "url": "https://www.python.org/community/sigs/current/edu-sig",
-      "title": "EDU-SIG: Python in Education | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "EDU-SIG: Python in Education",
-        "EDU-SIG: Python in Education",
-        "Python 2 or Python 3 ?",
-        "Resources",
-        "Mailing lists, etc.",
-        "Free books and tutorials for educators",
-        "Textbooks and other non-free books",
-        "Learning environments",
-        "Learning resources",
-        "Videos",
-        "Specialized packages",
-        "Academic papers",
-        "Game time!",
-        "Miscellaneous",
-        "SIG administrivia"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-events/1842/",
-      "title": "PyTexas 2025 | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "PyTexas 2025"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-events/1990/",
-      "title": "SpaceCon 2025 | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "SpaceCon 2025"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-events/locations/1234/",
-      "title": "Our Events | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-events/1896/",
-      "title": "PyCon Sweden | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "PyCon Sweden"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/calendars/",
-      "title": "Python Calendars | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Featured Python Calendars"
-      ]
-    },
-    {
-      "url": "https://www.python.org/users/membership/",
-      "title": "Sign In to Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Sign In"
-      ]
-    },
-    {
-      "url": "https://www.python.org/accounts/signup/",
-      "title": "Signup for Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Sign Up"
-      ]
-    },
-    {
-      "url": "https://www.python.org/accounts/password/reset/",
-      "title": "Password Reset",
-      "description": "(No description)",
-      "headings": [
-        "Password Reset"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-user-group/1985/",
-      "title": "IndyPy - Developer Tools: Code Faster, Work Smarter | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "IndyPy - Developer Tools: Code Faster, Work Smarter"
-      ]
-    },
-    {
-      "url": "https://www.python.org/events/python-user-group/locations/1581/",
-      "title": "Our Events | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/downloads/release/python-3132/",
-      "title": "Python Release Python 3.13.2 | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python 3.13.2",
-        "This is the second maintenance release of Python 3.13",
-        "Major new features of the 3.13 series, compared to 3.12",
-        "More resources",
-        "Files"
-      ]
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2.exe.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-amd64.zip.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-win32.zip.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tgz.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tar.xz.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tar.xz.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-macos11.pkg.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tgz.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-amd64.zip.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-arm64.exe.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-macos11.pkg",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tgz",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-arm64.zip.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tar.xz",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-arm64.exe.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-win32.zip.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-macos11.pkg.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-amd64.zip.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tar.xz.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2.exe.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/Python-3.13.2.tgz.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-arm64.zip.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-arm64.exe.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/download/sigstore/",
-      "title": "Sigstore Information | Python.org",
-      "description": "Information on CPython release artifacts signing and verification with Sigstore",
-      "headings": [
-        "",
-        "Sigstore Information",
-        "Sigstore verification of CPython Releases"
-      ]
-    },
-    {
-      "url": "https://www.python.org/psf/donations/python-dev/",
-      "title": "Help Fund Python Development and Maintenance | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Help Fund Python Development and Maintenance"
-      ]
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-win32.zip.asc",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-arm64.zip.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/download/sbom/",
-      "title": "Software Bill-of-Materials Information | Python.org",
-      "description": "Information on CPython release artifacts Software Bills-of-Material (SBOMs)",
-      "headings": [
-        "",
-        "Software Bill-of-Materials Information",
-        "What is a Software Bill-of-Materials (SBOM)?",
-        "Getting started with CPython SBOMs",
-        "What's included in CPython's Software Bill-of-Materials?"
-      ]
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2.exe.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe.spdx.json",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe.sigstore",
-      "title": "(No title)",
-      "description": "(No description)",
-      "headings": []
-    },
-    {
-      "url": "https://www.python.org/shell/",
-      "title": "Welcome to Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        ""
-      ]
-    },
-    {
-      "url": "https://www.python.org/success-stories/python-for-financial-machine-learning-at-union-investment/",
-      "title": "Python for Financial Machine Learning at Union Investment | Our Success Stories | Python.org",
-      "description": "The official home of the Python Programming Language",
-      "headings": [
-        "",
-        "Python for Financial Machine Learning at Union Investment",
-        "Introduction",
-        "Machine Learning with Python",
-        "Python’s Outstanding Ecosystem",
-        "Conclusion",
-        "About the Authors"
       ]
     }
   ]
